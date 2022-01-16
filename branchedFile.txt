@@ -1,2 +1,3 @@
 This is a branched file.
 Lets merge it into the master branch.
+Merged to master and edited from master.
